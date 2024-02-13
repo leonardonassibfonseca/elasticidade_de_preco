@@ -5,7 +5,7 @@ from matplotlib import pyplot as plt
 from PIL import Image 
 
 # Importando os arquivos
-path = '/home/leonardo/projetos_/elasticidade_de_preco/dataset'
+path = 'dataset'
 df_elasticidade = pd.read_csv(path + '/df_elasticidade.csv')
 df_resultado_negocio = pd.read_csv(path + '/df_resultado_negocio.csv')
 df_resultado_negocio = df_resultado_negocio.drop('Unnamed: 0', axis = 1)
