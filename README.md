@@ -24,7 +24,11 @@ Passo 3 - Filtragem das variáveis: No processo de filtragem, busca-se seleciona
 Passo 4 - Engenharia de variáveis: Neste passo foram criadas novas variáveis a partir das variáveis originais a fim de melhorar a qualidade dos dados facilitando seu o entendimento.
 
 Passo 5 - Encontrar R² e o p-valor: Neste tópico, buscamos encontrar o valor do coeficiente de determinação R² utilizando o cálculo dos mínimos quadrados e também descobrir o valor-p (p-valor) é uma medida estatística que ajuda a determinar a significância de um resultado em um teste de hipóteses.
- 
+
+![P_valor](img/P_valor.jpg)
+
+![P_valor](img/Tabela_valores.jpg)
+
 Passo 6 - Cálculo da Elasticidade: Neste passo o principal objetivo é calcular o quão elástico são alguns preços de produtos em relação a sua demanda.
 
 Passo 7 - Algoritmos de machine learning: Serão implementados alguns modelos de algoritmos de machine learning para possamos escolher o que melhor performou com os dados disponíveis.
@@ -34,9 +38,13 @@ Passo 8 - Performance do negócio: Nesta etapa, o termo "performance do negócio
 Passo 9 - Modelo em produção: Nesta etapa final e com o estudo concluído, foi disponibilizado o resultado em uma plataforma de visualização na web.
 
 ## 5.	Resultado do negócio
-Conforme mostrado na figura abaixo, foi feita uma análise para varios produtos vendidos pelo e-commerce Bestbuy.
+Conforme mostrado na figura abaixo, foi feita uma análise para varios produtos vendidos pelo e-commerce Bestbuy e o item 12 MacBook teve o maior valor em relação ao faturamento, muito devido a sual elevada elasticidade de preço.
  
- ![Faturamento](img/Tabela_maiores_faturamento.jpg)
+![Faturamento](img/Tabela_maiores_faturamento.jpg)
+
+Exemplificando como podemos extrair valor com este estudo, um dos produtos vendidos da mesma loja (Bestbuy) é o Details About Apple Macbook Air 13.3, onde seu preço atual é de 795,51 (unidades monetárias) e com uma redução de 10% no seu preço, teriamos um aumento no faturamento final de 40.848 para 48.803 (unidades monetárias)
+
+![Faturamento](img/Analise_faturamento.jpg)
 
 ## 9.	Conclusão
 O resultado prático deste projeto de previsão de vendas para uma empresa de medicamentos da Europa, reflete-se na capacidade de adicionar cenários otimistas e pessimistas além das previsões tradicionais. Essa abordagem oferece aos gestores uma visão mais abrangente, permitindo a tomada de decisões mais informadas diante de diferentes contextos.
