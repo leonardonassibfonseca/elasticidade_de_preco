@@ -2,7 +2,7 @@
 
 Experimento sobre a Elasticidade de Preço
 
-![Rossmann](img/rossmann.jpg)
+![Elasticidade](img/Cedula_esticada.jpg)
 
 ## 1.	Problema de negócio
 Entender e analisar a interação entre oferta e demanda em um mercado. A oferta e a demanda são cruciais para o funcionamento da economia, pois influenciam o comportamento do mercado. Em particular, a demanda por um produto ou serviço tende a diminuir à medida que o preço aumenta e aumentar à medida que o preço diminui, seguindo a chamada lei da demanda, que descreve essa relação inversa entre preço e demanda. Portanto, o desafio é compreender como as mudanças nos preços afetam a demanda pelos produtos ou serviços em um mercado específico, e como isso impacta as estratégias de produção, precificação e posicionamento no mercado.
