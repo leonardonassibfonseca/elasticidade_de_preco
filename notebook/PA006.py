@@ -5,9 +5,8 @@ from matplotlib import pyplot as plt
 from PIL import Image 
 
 # Importando os arquivos
-path = 'dataset'
-df_elasticidade = pd.read_csv(path + '/df_elasticidade.csv')
-df_resultado_negocio = pd.read_csv(path + '/df_resultado_negocio.csv')
+df_elasticidade = pd.read_csv('dataset/df_elasticidade.csv')
+df_resultado_negocio = pd.read_csv('dataset/df_resultado_negocio.csv')
 df_resultado_negocio = df_resultado_negocio.drop('Unnamed: 0', axis = 1)
 
 ########## Layout Streamlit ##########
@@ -20,8 +19,7 @@ st.header('Elasticidade de preços dos produtos')
 
 # Inserindo a imagem na coluna do meio
 with col2:
-    path = 'img'
-    image = Image.open(path + '/imagem_elasticidade.jpg') #Imagem precisa estar na mesma pasta do arquivo .PY
+    image = Image.open('img/imagem_elasticidade.jpg') #Imagem precisa estar na mesma pasta do arquivo .PY
 
     st.image(image, use_column_width = False, width = 500)
 
