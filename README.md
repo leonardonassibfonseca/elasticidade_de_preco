@@ -34,9 +34,9 @@ Passo 8 - Performance do negócio: Nesta etapa, o termo "performance do negócio
 Passo 9 - Modelo em produção: Nesta etapa final e com o estudo concluído, foi disponibilizado o resultado em uma plataforma de visualização na web.
 
 ## 5.	Resultado do negócio
-Conforme mostrado na figura abaixo, foram adicionados mais 2 cenários além do predito para as próximas 6 semanas em todas as lojas Rossmann, ou seja, um cenário pessimista e outro otimista, com isso o gestou conseguirá tomar a melhor decisão frente aos valores encontrados.
+Conforme mostrado na figura abaixo, foi feita uma análise para varios produtos vendidos pelo e-commerce Bestbuy.
  
- ![Cenarios](img/cenarios.JPG)
+ ![Faturamento](img/Tabela_maiores_faturamento.jpg)
 
 ## 9.	Conclusão
 O resultado prático deste projeto de previsão de vendas para uma empresa de medicamentos da Europa, reflete-se na capacidade de adicionar cenários otimistas e pessimistas além das previsões tradicionais. Essa abordagem oferece aos gestores uma visão mais abrangente, permitindo a tomada de decisões mais informadas diante de diferentes contextos.
