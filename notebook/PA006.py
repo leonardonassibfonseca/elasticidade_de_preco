@@ -20,7 +20,7 @@ st.header('Elasticidade de preços dos produtos')
 
 # Inserindo a imagem na coluna do meio
 with col2:
-    path = '/home/leonardo/projetos_/elasticidade_de_preco/img'
+    path = 'img'
     image = Image.open(path + '/imagem_elasticidade.jpg') #Imagem precisa estar na mesma pasta do arquivo .PY
 
     st.image(image, use_column_width = False, width = 500)
