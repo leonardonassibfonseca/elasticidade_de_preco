@@ -50,7 +50,5 @@ with tab2:
     # Apresentar o resultado do negócio
     st.subheader('Resultado do Negócio')
     df_resultado_negocio = df_resultado_negocio.set_index('nome')
-    st.dataframe(df_resultado_negocio, use_container_width = True)
-    
-if __name__ == "__main__":
-    create_main_layout()
+    st.dataframe(df_resultado_negocio, use_container_width = True)   
+
