@@ -46,10 +46,10 @@ Exemplificando como podemos extrair valor com este estudo, um dos produtos vendi
 
 ![Faturamento](img/Analise_faturamento.jpg)
 
-## 9.	Conclusão
+## 6.	Conclusão
 A relação entre preço e demanda, expressa pela lei da demanda, é fundamental para entender a elasticidade de preços. Tanto por meio de uma curva quanto de uma função de demanda, considerando fatores como renda dos consumidores e preços de substitutos e complementares, é possível prever como a quantidade demandada de um produto irá variar com mudanças nos preços. A elasticidade de preço, medida pela sensibilidade da demanda às mudanças de preço, ajuda as empresas a ajustarem seus preços e estratégias de marketing para maximizar receitas e atender às necessidades dos consumidores, sendo crucial para decisões informadas e sucesso no mercado.
 
-## 10.	Próximos passos
+## 7.	Próximos passos
 •	Expandir este estudo para mais produtos;
 •	Melhorar o estudo adicionando outras variáveis tais como: renda dos consumidores, preços de produtos substitutos e complementares;
 •	Avaliação de políticas de precificação, como descontos, pacotes e estratégias de preços dinâmicos, na demanda e nas receitas.
